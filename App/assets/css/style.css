@@ -1,0 +1,42 @@
+/*Colors:
+#EB4B98
+#F26DF9
+#5158BB
+#043565
+#02394A
+*/
+
+html{
+	background-color: #F26DF9;
+	color: #EB4B98;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	font-size:36px;
+	font-weight:bold;
+}
+
+.content{
+	background-color: #5158BB;
+	width:70%;
+	padding:20px;
+	margin:20px auto;
+}
+.button-container{
+
+}
+
+button{
+border-radius:5px;
+padding: 4px;
+margin:4px;
+background-color: #02394A; 
+color: white;
+}
+
+button:hover{
+	background-color: white;
+	color: #043565;
+}
+
