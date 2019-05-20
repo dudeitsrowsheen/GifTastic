@@ -1,0 +1,43 @@
+/*Colors:
+#BAFFDD
+#A9E8DB
+#C6FBFF
+#A9D3E8
+#BAD6FF
+*/
+
+html{
+	background-color: #A9D3E8;
+	color: #A9D3E8;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	font-size:36px;
+	font-weight:bold;
+}
+
+.content{
+	background-color: #C6FBFF;
+	width:70%;
+	padding:20px;
+	margin:20px auto;
+	text-align: center;
+}
+.button-container{
+
+}
+
+button{
+border-radius:5px;
+padding: 4px;
+margin:4px;
+background-color: #BAD6FF; 
+color: white;
+}
+
+button:hover{
+	background-color: white;
+	color: #043565;
+}
+
